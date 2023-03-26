@@ -14,5 +14,6 @@ tidak di izinkan masuk karena tidak sesuai pada role atau aturan client
 halaman/request tidak di temukan
 - 405 Method Not Allowed
 salah memasukkan method yang tidak tersedia pada server
+
 **Server Error Response (5xx)**
 - 500 Internal Server Error
